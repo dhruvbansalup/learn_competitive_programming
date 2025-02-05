@@ -33,3 +33,7 @@
 
 #VSCode
 .vscode
+
+.cph
+*.cph
+*.prob
