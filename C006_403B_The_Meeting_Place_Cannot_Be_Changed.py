@@ -1,3 +1,6 @@
+# Codeforces - Codeforces Round 403 (Div. 2, based on Technocup 2017 Finals
+# https://codeforces.com/problemset/problem/782/B
+
 N=int(input())#No of Frinds
 position=list(map(int,input().strip().split(" ")))
 speed=list(map(int,input().strip().split(" ")))
